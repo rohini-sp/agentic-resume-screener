@@ -38,7 +38,7 @@ A multi-agent AI system built with **Streamlit** and **Gemini Flash API** that i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/agentic-resume-screener.git
+git clone https://github.com/rohini-sp/agentic-resume-screener.git
 cd agentic-resume-screener
 ```
 
